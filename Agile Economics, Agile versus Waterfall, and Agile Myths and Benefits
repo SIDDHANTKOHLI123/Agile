@@ -1,0 +1,16 @@
+Sprint-level economics is about maximizing Return On Investment (ROI) for each sprint. Product Owners, Scrum Masters and every member of the Scrum Team should treat the company’s money as they would their own money and be frugal about making economic decisions. This is especially important when determining whether or not to fund the next sprint.
+Successful Product Owners have a profound understanding of various levels of economics including release-level economics, sprint-level economics, and product backlog economics. Product Owners consistently use economic trade-offs in their decision making.
+
+We're continuously adding business value and getting valuable feedback from the business. This will save us time, energy and anxiety over the life of the development cycle and, again, the business value here. This this could be a release, this could be the final product, but it's been,it's been brought through the cycle with valuable feedback in business value. And maybe here we're getting feedback of how we can improve the product for future versions.
+
+Waterfall vs Agile
+
+Waterfall is not a bad methodology. However, it does have some shortcomings when dealing with complex tasks. The task management can be half hazards, tasks can be added and added again, and we could be asked to change completed work. We're not delivering any business value in waterfall until the end. So this whole time, we are essentially completing paperwork design. At any given time with this single iteration and with these phases we can revisit phases, so we can think we have all of the requirements and then move on to the design. When suddenly we find out that we've had a change in requirements. Well, that obviously impacts the design. Eventually though, if we reach another point of stability, we can start to go in and implement and build the products. But still, we can have a change in requirements, which would mean updating a design which would mean re-factoring what's been built, which really starts to get expensive. So in this case here, we can see how budgets could be increased and how scope creep can negatively impact us, and we can see here how release states can also be greatly impacted. So all of this leads to frustration, not only by the business but by the team
+
+So with waterfall, we have a fixed set of requirements that were expected to deliver on during the single liberation. And what's estimated are the resources, the team, the budget and the timeline. So these are all estimated, and if anything impacts these requirements through changes or updates or additions, the resources they team and budget, can be negatively impacted and the timeline can extend. As opposed agile software, where with agile software, the resources, the team and the time are fixed. 
+
+
+Advantages of Agile vs Waterfall
+1. Less prone to error
+2. More flexible
+3.
