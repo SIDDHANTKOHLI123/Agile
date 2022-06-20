@@ -1,0 +1,7 @@
+A user story is the smallest unit of work in an agile framework. It's an end goal, not a feature, expressed from the software user's perspective. A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer.
+
+Acceptance Criteria
+Acceptance criteria refer to a set of predefined requirements that must be met to mark a user story complete. Acceptance criteria are also sometimes called the “definition of done” because they determine the scope and requirements that must be executed by developers to consider the user story finished.
+
+Spike
+Spike is the name for a timeboxed user story or Task that is created in order to research a question or resolve a problem. Spikes focus on gathering information and finding answers to a questions, rather than producing a shippable product.
