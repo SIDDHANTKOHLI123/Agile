@@ -1,2 +1,32 @@
 The Sprint
 The sprint is the dedicated time boxed event where the solution Increment is built. The main sprint of the sprint is to deliver a working solution increment at the end of the sprint. The sprint is time boxed for days. A typical sprint is 10 business days. However, it could be longer, or shorter, than 10 business days as Scrum is a framework and is flexible. During the sprint, the team self organizes on the current user stories, tests, and other tasks to get the User Stories complete, or done. 
+
+
+The sprint begins with a meeting called the sprint planning meeting. This is where the team, the Product Owner and Scrum Master validate the User Stories to be built. The team also validates its current capacity during this meeting. The Daily Stand Up is conducted everyday of the sprint.
+
+The Product Vision or Epic Meeting
+The Product vision describes the purpose of a Product. The Product Vision can be describes as an Epic. The Product Vision, or Epic meeting, Describes the intention with which the Product is being created, and what it aims to achieve for customers and users. The Product vision describes a future state of the Product and what problems it tries to resolve or what ambitions it tries to fulfill. The Product Vision address the needs of the customer and describes how the product will make the customer's life better.
+The meeting occurs at least one time, before any sprints start. This is where the top priorities are presented, and the team, or teams, begin to form an understanding of how to break the Epic priorities into User Stories. The Vision/Epic meeting results in several follow meetings called Backlog Refinement meetings. The Backlog Refinements meetings is where the User Stories are written, and estimated. The User Story acceptance criteria is added during Backlog refinement.  
+
+The Sprint Planning Meeting
+The Sprint Planning meeting is held on the first day of the sprint, before any work begins. This meeting is facilitated by the Scrum Master, and the time box is typically 2 hours. The first order of business is for the team to validate its capacity. The team's capacity is very similar to the team's Velocity. The difference is that the team accounts for the team's current availability for the sprint. Team members may not have the same availability sprint to sprint. Next the Product Owner discusses the currently prioritized User Stories. No one should be surprised by any of the User Stories in this discussion. The team reviews each of the prioritized User Stories, and makes sure each one is clear, estimated and has acceptance criteria.
+
+
+Daily Standup Meeting
+The Daily standup meeting is help every day of the sprint. It is facilitated by the Scrum Master. The attendees are the team members and the Product Owner. If either the Scrum Master or the Product Owner cannot attend, then a proxy should be appointed. The purpose of a Daily standup meeting is to learn the current progress of every team member that works on Scrum User Stories, tests, or other tasks. Daily stand up meetings align team members around company goals and let them address any short-term challenges that prevent team members from effectively performing their sprint tasks.
+
+The Daily Stand Up meeting is boxed at 15 minutes. To facilitate brevity, each team member recites a script, and answers 3 questions: What I completed yesterday (state the items completed), these are my plans for today (state today's plans) and my impediments are (state the current impediments, if any).
+
+
+
+Backlog Refinement
+
+The Backlog Refinement meeting occurs at least one time per sprint. The meeting is facilitated by the Scrum Master, with the Product Owner leading the discussion on the Product Backlog and User Stories. This is the team's one formal opportunity to look ahead to User Stories in the next sprint, and sprints after the next sprint. The main goal of the Backlog Refinement meeting is to ensure there are ready User Stories for the next sprint and sprints beyond the next sprint. Therefore we are looking to make sure there is no downtime between sprints due to lack of ready User Stories.
+
+
+The Sprint Review Meeting
+The sprint review meeting is the meeting where the team runs and demonstrate's the product to themselves. The Scrum Master facilitates the Sprint Review meeting. The team and the Product Owner attend the meeting. Other stakeholders may also be invited, as it is a good chance for the team to show off the great work they delivered. During the Sprint Review meeting, each User Story is demoed, along with any knowledge gained from Spikes. This is the formal chance for the Product Owner to accept the User Stories, and/or request that the team change something that was implemented during the sprint.
+
+
+Sprint Restrospective 
+The sprint retrospective is a recurring meeting held at the end of a sprint used to discuss what went well during the previous sprint cycle and what can be improved for the next sprint. The Agile sprint retrospective is an essential part of the Scrum framework for developing, delivering, and managing complex projects.
