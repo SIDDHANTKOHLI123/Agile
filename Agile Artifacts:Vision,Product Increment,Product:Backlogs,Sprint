@@ -1,0 +1,19 @@
+The Product Increment
+The Product/Solution Increment (PI) is built by the Scrum team. The PI is finalized and delivered at the end of the sprint. The PI must be a working incrememt of the solution. It is an increment as it is not the complete solution. The working PI only has some of the features and functionality, and more features and functionality will be added to the current PI.
+
+The PI will be used during the Sprint Review, and customers will deliver feedback on the PI. The working PI is the goal of the sprint. The Scrum Master has worked with the team during the sprint to ensure that the PI is indeed a working increment of the solution.
+
+
+The Product Vision
+The Agile Vision is the problem the product is solving. It describes the future state of the solution. The Vision is driven by the enterprise objectives. The Product Vision must support the strategic enterprise objectives. The Vision delivers the enterprise objectives.
+
+The Vision contains detailed information on the highest priority features and functionality. It also describes the customers and market being served and any capabilities planned for later releases. Additionally, price points may be described.
+
+Product Backlog
+The Product Backlog is a listing of all the capabilities, features and functionality that will be built into the product, or solution. Sometimes it is called a wish list. However, a wish list is not a great name for the Product Backlog. The User Stories are ranked in the Product Backlog based on business priority. 
+
+Sprint Backlog
+The Sprint Backlog is also the Sprint Plan. It is the set of selected User Stories prioritized for the sprint. it is a subset of the Product Backlog. The sum of the estimated story points in the Sprint Backlog must equal the team's Velocity, or Capacity.
+
+Release Backlog
+The Release Backlog is similar to the Sprint Backlog, or Sprint Plan. It is a set of select User Stories that make up a planned Product Release. The idea is that the user community expects certain features to be part of a product release. The User Stories make up the features in the planned release. Therefore a Release a set of completed sprints. The super set, of or combining of the targeted Sprint Backlogs for the Release is the Release Backlog. Release backlogs are becoming less common as most Agile methodologies prescribe releasing on demand.
