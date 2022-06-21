@@ -1,0 +1,12 @@
+Story Points
+In Agile, and Scrum, User Stories are typically estimated in Story Points. Story Points estimation involves estimating the time, the complexity, the volume of a User Story, against the other User Stories in the Backlog. Story points are a relative estimate. Story points are considered to be dimensionless, and not "directly" linked to time. However, an example of a 1 Story Point is a User Story that the team can get to done in 1 day. Any User Story that is about double the 1 User Story is estimated as a 2.  Any User Story that is about triple the 1 User Story is estimated as a 3. This is the relative process of using Story Point estimation.
+
+When using Story Points, the scale follows a pattern called the rounded, or modified Fibonacci scale: 1, 2, 3, 5, 8, 13, 20, 40, 100. The rounded Fibonacci scale provides advantages when it comes to uncertainty. Any User Story estimated at 13, or below is considered to have a high level of certainty. Any User Stories estimated 20 points or higher, is considered to have significant levels of uncertainty. 
+
+Story Points are not the only way to estimate User Stories. Some other estimating scales are: power of 2, Small, Medium and Large, and more. However, they are largely considered the best practice for User Story estimation. 
+
+
+The Definition of Done
+The Definition of Done (DoD) is an agreement between the Scrum Team and the business that certain items will be completed before a User Story can be considered done. The minimal DoD is build the Users Stories and test each User Story. This is often just enough for an initial DoD. As the team gains more Scrum experience the DoD can become more sofisticated. More sofisticated DoDs can, not only, include testing, but also include Product Increment documentation, running regression tests, checking code into team repositories.
+
+DoDs are unique to each Scrum team and business. The as the process and the DoD matures it will include new items that will support the business. The Scrum Master and the Product Owner will validate that the DoDs are met for each sprint. The DoDs are reviewed in the Sprint Review meeting.
